@@ -8,3 +8,7 @@ https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-f
 
 deprecated jade@1.11.0: Jade has been renamed to pug, please install the latest version of pug instead of jade
 deprecated transformers@2.1.0: Deprecated, use jstransformer
+
+###Directions:
+1.  npm start
+2.  URL: http://localhost:3000
